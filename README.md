@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Orkhan Muradov
+- 🌱 I’m currently learning c++ programming language
+- 📫 How to reach me: orkhan.muradov.business@gmail.com
+- 😄 Pronouns: he/him
